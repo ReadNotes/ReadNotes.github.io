@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sapiens: A Brief History of Humankind" by Yuval Noah Harari 
+title: Sapiens A Brief History of Humankind by Yuval Noah Harari
 ---
 
 A master piece. The author seems the history of the world with such clarity and worthy of re-reading. For a simple example, it describes the agricultural revolution, and asks us - are humans domesticated plants, or plants domesticated humans? Before the agricultural revolution, nomadic humankind probably ate a richer diet, and saw more interesting domains. After that, humankind are tied to a simple living hut, ate simple grain with little variation... With hindsight, we might say this is a symbiotic biosphere after the agricultural revolution. (Hahari gives credit to Richard Dawkins.) But his way to flip the table and see the world in this different perspective is what set this book apart from the rest.
