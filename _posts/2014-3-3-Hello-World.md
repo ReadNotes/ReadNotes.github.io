@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: "Sapiens: A Brief History of Humankind" by Yuval Noah Harari - Review
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A master piece. The author seems the history of the world with such clarity. I was speechless and would want to visit again. For a simple example, it describes the agricultural revolution, and asks us - are humans domesticated plants, or plants domesticated humans? Before the agricultural revolution, nomadic humankind probably ate a richer diet, and saw more interesting domains. After that, humankind are tied to a simple living hut, ate simple grain with little variation... With hindsight, we might say this is a symbiotic biosphere after the agricultural revolution. (The author gives credit to ideas from Richard Dawkins.) But the author's way to flip the table and see the world in this different perspective is what set this book apart from the rest.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+One thing I found interesting -- the author noticed that the more sophisticated historians dig into history, the less certain they are, of whether the event is preordained to happen, and why it happened. They are less likely to pin down historic development to simple factors, and they are less certain it will happen at all.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Contrast this humble uncertainty about what happened in the past -- with the author's conviction that sapiens will disappear in the future, that bionic, cyborg... other forms of living being will be inevitable. I found this contract fascinating. Perhaps the author holds the common view of economic recession -- not a question of whether it will happen, but when? It is interesting for predictions to be separated from a range of time points.
+
+How is it related to other books? Besides places where the book give credits to Richard Dawkins, when the book discussed the fateful encounter between Pizarro and the Incan emperor Atahualpa, the description of the encounter is eerily similar to that of "Guns, Germs and Steel". Except Diamond elaborated his almost bio-diversity-origin view, but Harari focused on information - and the lack of information/communicating/learning between Inca and Aztec empires that lead to the huge gulf between the Inca and Pizarro. This is an interesting example on their difference.
+
+Harari holds the view that we humans are so much weaker than other animals physically, and the only advantage that allowed us to roam the earth is our social skills. (Again, contrast this conviction with his statement that the more historians studied the past, the less certain of this outcome.) Other things equal, this view does make me to critically evaluate my interactions with other human beings -- am I too focused on tech details and not developing the critical, sapien-unique skill of socializing and gossiping? When I was shunning the office gossip and thought that I took the high road by focusing on my technical tasks, was I disadvantaged because sapience inherently connect at the gossip level? This last part, is a blow to my self recognition. 
